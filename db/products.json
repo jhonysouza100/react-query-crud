@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "newdata",
+      "description": "werew",
+      "price": "1234",
+      "stock": false,
+      "id": 1
+    },
+    {
+      "name": "newdata",
+      "description": "werew",
+      "price": "1234",
+      "stock": true,
+      "id": 2
+    }
+  ]
+}
